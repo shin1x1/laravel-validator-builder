@@ -1,0 +1,31 @@
+{
+  "name": "shin1x1/laravel-validator-builder",
+  "description": "Laravel 4 Validator builder",
+  "keywords": ["Laravel", "validation"],
+  "homepage": "https://github.com/shin1x1/laravel-validator-builder",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Masashi Shinbara",
+      "email": "shin1x1@gmail.com",
+      "homepage": "https://github.com/shin1x1"
+    }
+  ],
+  "require": {
+    "php": ">5.4.0",
+    "illuminate/support": "~4.0",
+    "illuminate/validation": "~4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "@stable",
+    "mockery/mockery": "dev-master"
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Shin1x1\\ValidatorBuilder\\": "src/Shin1x1/ValidatorBuilder",
+      "Shin1x1\\ValidatorBuilder\\Test\\": "tests"
+    }
+  },
+  "minimum-stability": "stable"
+}
