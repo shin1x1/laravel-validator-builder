@@ -13,8 +13,8 @@
   ],
   "require": {
     "php": ">5.4.0",
-    "illuminate/support": "~4.0",
-    "illuminate/validation": "~4.0"
+    "illuminate/support": "~5.0.x",
+    "illuminate/validation": "~5.0.x"
   },
   "require-dev": {
     "phpunit/phpunit": "@stable",
