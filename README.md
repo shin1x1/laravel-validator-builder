@@ -7,12 +7,12 @@ Laravel 4 Validator builder
 ## for Laravel 5
 
 ```
-"shin1x1/laravel-table-admin": "~2.0"
+"shin1x1/laravel-validator-builder": "~2.0"
 ```
 
 ## for Laravel 4
 
 ```
-"shin1x1/laravel-table-admin": "~1.0"
+"shin1x1/laravel-validator-builder": "~1.0"
 ```
 
